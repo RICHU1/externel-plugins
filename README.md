@@ -1,95 +1,161 @@
-<h1 align="center"> Inrl Plugins </h1>
-<div align="center">
-<br /> 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Inrl-official&label=Visitors%20count&color=10d9c3&style=plastic" alt="inrl-plugin-list" /> </p>
+<h2>  INRL OFC PLUGINS  </h2>
+<br>
+<img src="https://media.tenor.com/ZCf0ne-ZoOMAAAAC/anime.gif" alt="" width="250" height="170">
+<br>
+<h6> THIS RIPO FOR INRL PLIGINS ONLY YOU CAN USE INRL BOT TO USE OUR PLUGINS INRL BOT SUPPORT ALMOST EVERY THINK SO JUST TRY INRL BOT AND JOIN OWER GROUP ➢</p>
+<br>
+  <br>
+<a href="https://chat.whatsapp.com/F6VWuK677vB1kxXbV8m5II" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="safxr._" height="30" width="40" /></a>
+
+ <br>
+ <br>
+ <h4 align="center">  ⚛ SUPPORTED PLUGINS ⚛</h1>
+ 
+`vv`
+`mention`
+`intro`
+`aitts`
+`autoforward`
+`ujids`
+`getjids`
+`hy`
+`exif`
+`demon slayer`
+`teddy`
 
 
-ᴄʟɪᴄᴋ ᴡᴀ ʟᴏɢᴏ ᴛᴏ ᴊᴏɪɴ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ 👇 
-<br> [![join](https://raw.githubusercontent.com/inrl-official/externel-plugins/master/media/inrl.png)](https://chat.whatsapp.com/EznQoeFnVxM8lgF1hraL7K)
-  <div align="center"  
-<h4 align="center">Plugins</h1>
 
----
+<br>
 
-- Create your own plugin and join group to add that plugin in repo.
+<h4 align="center"> ❇ vv </h1>
 
----
 
----
-<h4 align="center">   vv </h4>
-
-Forward viweOnce Message
 ```
 https://gist.github.com/inrl-official/a3374e5cb15eccfdd6c1c3968fbfab30
 ```
+ᴩᴀᴛᴛᴇʀɴ : ᴠᴠ <br>
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : ɪɴʀʟ <br>
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : ᴠᴠ ᴜꜱᴇᴅ ᴛᴏ ɢᴇᴛ ᴀ ᴏɴᴇꜱ ɪᴍᴀɢᴇ ᴏʀ ᴠɪᴅᴇᴏ
+<br>
+<br>
+<br>
+<h4 align="center"> ❇ mention </h1>
 
 
-<h4 align="center">  mention </h4>
-
-send audio when someone mention owner
 ```
 https://gist.github.com/inrl-official/f31e26f4c18ff9412d1dd59dc466b49a
 ```
+ᴩᴀᴛᴛᴇʀɴ : @ <br>
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : ɪɴʀʟ <br>
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : ᴍᴇɴᴛɪᴏɴ ᴜꜱᴇᴅ ᴛᴏ ꜱᴇɴᴅ ᴀᴜᴅɪᴏ ᴡʜᴇɴ ꜱᴏᴍᴇᴏɴᴇ ᴍᴇɴᴛɪᴏɴ ᴏᴡɴᴇʀ
+<br>
+<br>
+<br>
+<h4 align="center"> ❇ intro </h1>
 
 
-<h4 align="center">  intro </h4>
-
-give about of owner
 ```
 https://gist.github.com/inrl-official/66b81812f1b5e8374dd962362aad7dc7
 ```
+ᴩᴀᴛᴛᴇʀɴ : ɪɴᴛʀᴏ <br>
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : ɪɴʀʟ <br>
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : ɪɴᴛʀᴏ ᴜꜱᴇᴅ ᴛᴏ ɢɪᴠᴇ ꜱᴏᴍᴇ ᴅᴇᴛᴀʟɪꜱ ᴏꜰ ᴏᴡᴇɴ 
+<br>
+<br>
+<br>
+<h4 align="center"> ❇ aitts </h1>
 
-<h4 align="center">   aitts </h4>
 
-tts with elavnlabs ai
 ```
 https://gist.github.com/inrl-official/59f1c7aca2f83447c347f983a275ba52
 ```
+ᴩᴀᴛᴛᴇʀɴ : ᴀɪᴛᴛꜱ <br>
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : ɪɴʀʟ <br>
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : ᴛᴛꜱ ᴡɪᴛʜ ᴇʟᴀᴠɴʟᴀʙꜱ ᴀɪ
+<br>
+<br>
+<br>
+<h4 align="center"> ❇ autoforward </h1>
 
 
-<h4 align="center">  autoForward </h4>
-
-forward medias from one group to another one
 ```
 https://gist.github.com/inrl-official/06ed3d2a71f408e94e6cb8c24d1090dd
 ```
+ᴩᴀᴛᴛᴇʀɴ : ᴀᴜᴛᴏꜰᴏʀᴡᴀʀᴅ <br>
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : ɪɴʀʟ <br>
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : ꜰᴏʀᴡᴀʀᴅ ᴍᴇᴅɪᴀꜱ ꜰʀᴏᴍ ᴏɴᴇ ɢʀᴏᴜᴩ ᴛᴏ ᴀɴᴏᴛʜᴇʀ ᴏɴᴇ
+<br>
+<br>
+<br>
+<h4 align="center"> ❇ ujids </h1>
 
 
-<h4 align="center">  ujids </h4>
-
-list all jids in a group
 ```
 https://gist.github.com/inrl-official/697d43c8c78f3879fc4427fd6e6c333e
 ```
+ᴩᴀᴛᴛᴇʀɴ : ᴜᴊɪᴅꜱ <br>
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : ɪɴʀʟ  <br>
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : ʟɪꜱᴛ ᴀʟʟ ᴊɪᴅꜱ ɪɴ ᴀ ɢʀᴏᴜᴩ
+<br>
+<br>
+<br>
+<h4 align="center"> ❇ getjids </h1>
 
 
-<h4 align="center">  getjids </h4>
-
-list jids of group thets you joined 
 ```
 https://gist.github.com/inrl-official/8fc83eb348fb9fad54d68af1cf90dd4b
 ```
+ᴩᴀᴛᴛᴇʀɴ : ɢᴇᴛᴊɪᴅꜱ <br>
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : ɪɴʀʟ <br>
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : ʟɪꜱᴛ ᴊɪᴅꜱ ᴏꜰ ɢʀᴏᴜᴩ ᴛʜᴇᴛꜱ yᴏᴜ ᴊᴏɪɴᴇᴅ
+<br>
+<br>
+<br>
+<h4 align="center"> ❇ hy </h1>
 
-<h4 align="center">  hy</h4>
 
-just fun
 ```
 https://gist.github.com/inrl-official/b51055f14d6c74635c303b392386d477
 ```
+ᴩᴀᴛᴛᴇʀɴ : ʜy <br>
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : ɪɴʀʟ <br>
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : ᴊᴜꜱᴛ ꜰᴜɴ
+<br>
+<br>
+<br>
+<h4 align="center"> ❇ exif </h1>
 
 
-<h4 align="center">  exif </h4>
-
-give exif of sticker and some encode|decode functions.
 ```
 https://gist.github.com/inrl-official/00837c55849f5d2a53ca9e8d7d83625c
 ```
+ᴩᴀᴛᴛᴇʀɴ : ᴇxɪꜰ <br>
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : ɪɴʀʟ <br>
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : ɢɪᴠᴇ ᴇxɪꜰ ᴏꜰ ꜱᴛɪᴄᴋᴇʀꜱ ᴀɴᴅ ꜱᴏᴍᴇ ᴇɴᴄᴏᴅᴇ / ᴅᴇᴄᴏᴅᴇ ꜰᴜɴᴄᴛɪᴏɴꜱ
+<br>
+<br>
+<br>
+<h4 align="center"> ❇ demon slayer </h1>
 
 
-
-<h4 align="center"> Demon Slayer </h4>
-
-demon slayer anime video
 ```
 https://gist.github.com/Loki-Xer/3b025fda15d2379ee39280d0a908e6f5
 ```
+ᴩᴀᴛᴛᴇʀɴ : ᴅꜱ <br>
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : ɪɴʀʟ <br>
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : ᴅᴇᴍᴏɴ ꜱʟᴀyᴇʀ ᴠɪᴅᴇᴏꜱ ꜱᴇɴᴛɪɴɢ
+<br>
+<br>
+<br>
+<h4 align="center"> ❇ teddy </h1>
+
+
+```
+https://gist.github.com/Loki-Xer/37ac057d6b04c18c5125b61b3293e4ef
+```
+ᴩᴀᴛᴛᴇʀɴ : ᴛᴇᴅᴅy <br>
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : ɪɴʀʟ <br>
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : ᴊᴜꜱᴛ ꜰᴏʀ ꜰᴜɴ
+<br>
+<br>
+<br>
