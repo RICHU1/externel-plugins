@@ -171,3 +171,27 @@ sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : ɪɴʀʟ <br>
 <br>
 <br>
 <br>
+<h4 align="center"> ❇ status senter </h1>
+
+
+```
+https://gist.github.com/inrl-official/646234dbc29d428b05e414cb1c068cc3
+```
+ᴩᴀᴛᴛᴇʀɴ : ꜱɴᴛ, ɢɪᴠᴇ, ꜱᴛ <br>
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : ɪɴʀʟ <br>
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : ꜰᴏʀ ꜱᴇɴᴛɪɴɢ ꜱᴛᴀᴛᴜꜱ
+<br>
+<br>
+<br>
+<h4 align="center"> ❇ waifu </h1>
+
+
+```
+https://gist.github.com/Loki-Xer/0e6bcc4f2082dad9904e5ef546727739
+```
+ᴩᴀᴛᴛᴇʀɴ : ᴡᴀɪꜰᴜ <br>
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : ɪɴʀʟ <br>
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : ɴꜱꜰᴡ ᴡᴀɪꜰᴜ 18+
+<br>
+<br>
+<br>
