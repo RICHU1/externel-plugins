@@ -240,3 +240,15 @@ sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : ɪɴʀʟ <br>
 <br>
 <br>
 <br>
+<h4 align="center"> ❇ country </h1>
+
+
+```
+https://gist.github.com/Loki-Xer/e82c7c4974d16d5a83f73d8b26d7e57e
+```
+ᴩᴀᴛᴛᴇʀɴ : ᴄᴏᴜɴᴛʀy <br>
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : ɪɴʀʟ <br>
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : ᴄᴏᴜɴᴛʀy ɪɴꜰᴏ
+<br>
+<br>
+<br>
