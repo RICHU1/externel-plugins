@@ -17,7 +17,7 @@
 `mention`
 `intro`
 `aitts`
-`autoforward`
+`fd`
 `ujids`
 `getjids`
 `hy`
@@ -29,7 +29,11 @@
 `ᴡᴀɪꜰᴜ`
 `owner`
 `xnxx download`
-`xnxx searcher` 
+`xnxx searcher`
+`save`
+`caption`
+`mee`
+`anti_view_once`
 
 
 
@@ -88,9 +92,9 @@ sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : ɪɴʀʟ <br>
 
 
 ```
-https://gist.github.com/inrl-official/06ed3d2a71f408e94e6cb8c24d1090dd
+https://gist.github.com/inrl-official/527d1f41235deef69e2ffff8cbe513a9
 ```
-ᴩᴀᴛᴛᴇʀɴ : ᴀᴜᴛᴏꜰᴏʀᴡᴀʀᴅ <br>
+ᴩᴀᴛᴛᴇʀɴ : ꜰᴅ <br>
 sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : ɪɴʀʟ <br>
 ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : ꜰᴏʀᴡᴀʀᴅ ᴍᴇᴅɪᴀꜱ ꜰʀᴏᴍ ᴏɴᴇ ɢʀᴏᴜᴩ ᴛᴏ ᴀɴᴏᴛʜᴇʀ ᴏɴᴇ
 <br>
@@ -249,6 +253,54 @@ https://gist.github.com/Loki-Xer/e82c7c4974d16d5a83f73d8b26d7e57e
 ᴩᴀᴛᴛᴇʀɴ : ᴄᴏᴜɴᴛʀy <br>
 sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : ɪɴʀʟ <br>
 ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : ᴄᴏᴜɴᴛʀy ɪɴꜰᴏ
+<br>
+<br>
+<br>
+<h4 align="center"> ❇ save </h1>
+
+
+```
+https://gist.github.com/inrl-official/1e30bafd155d80d45ea8fc46553ac94c
+```
+ᴩᴀᴛᴛᴇʀɴ : ꜱᴀᴠᴇ <br>
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : ɪɴʀʟ <br>
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : ꜱᴀᴠᴇ ᴅᴀᴛᴀ ɪɴ ᴩᴍ
+<br>
+<br>
+<br>
+<h4 align="center"> ❇ caption </h1>
+
+
+```
+https://gist.github.com/inrl-official/45149c7a63c9ab8b0456a9ded00b6f1b
+```
+ᴩᴀᴛᴛᴇʀɴ : ᴄᴀᴩᴛɪᴏɴ <br>
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : ɪɴʀʟ <br>
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : ᴄᴀᴩᴛɪᴏɴ
+<br>
+<br>
+<br>
+<h4 align="center"> ❇ mee </h1>
+
+
+```
+https://gist.github.com/Loki-Xer/db8ef5b5bd7131848f23f4a644c7743d
+```
+ᴩᴀᴛᴛᴇʀɴ : mee <br>
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : ɪɴʀʟ <br>
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : mention owner 
+<br>
+<br>
+<br>
+<h4 align="center"> ❇ anti_view_once </h1>
+
+
+```
+https://gist.github.com/Loki-Xer/2da1a37d3fc15a3164dfdb9c4b71cf58
+```
+ᴩᴀᴛᴛᴇʀɴ : anti_view_once <br>
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : ɪɴʀʟ <br>
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : anti view once
 <br>
 <br>
 <br>
