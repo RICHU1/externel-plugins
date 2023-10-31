@@ -88,7 +88,7 @@ sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : ɪɴʀʟ <br>
 <br>
 <br>
 <br>
-<h4 align="center"> ❇ autoforward </h1>
+<h4 align="center"> ❇ fd </h1>
 
 
 ```
