@@ -34,6 +34,8 @@
 `caption`
 `mee`
 `anti_view_once`
+`hack`
+`ptv`
 
 
 
@@ -286,9 +288,9 @@ sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : ɪɴʀʟ <br>
 ```
 https://gist.github.com/Loki-Xer/db8ef5b5bd7131848f23f4a644c7743d
 ```
-ᴩᴀᴛᴛᴇʀɴ : mee <br>
+ᴩᴀᴛᴛᴇʀɴ : ᴍᴇᴇ <br>
 sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : ɪɴʀʟ <br>
-ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : mention owner 
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : ᴍᴇɴᴛɪᴏɴ ᴏᴡɴᴇʀ
 <br>
 <br>
 <br>
@@ -298,9 +300,33 @@ sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : ɪɴʀʟ <br>
 ```
 https://gist.github.com/Loki-Xer/2da1a37d3fc15a3164dfdb9c4b71cf58
 ```
-ᴩᴀᴛᴛᴇʀɴ : anti_view_once <br>
+ᴩᴀᴛᴛᴇʀɴ : ᴀɴᴛɪ_ᴠɪᴇᴡ_ᴏɴᴄᴇ <br>
 sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : ɪɴʀʟ <br>
 ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : anti view once
+<br>
+<br>
+<br>
+<h4 align="center"> ❇ hack </h1>
+
+
+```
+https://gist.github.com/Loki-Xer/2479f561a88acb6af9a0c6977294d61c
+```
+ᴩᴀᴛᴛᴇʀɴ : ʜᴀᴄᴋ <br>
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : ɪɴʀʟ <br>
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : ꜰᴜɴ ᴛᴇxᴛ
+<br>
+<br>
+<br>
+<h4 align="center"> ❇ pvt </h1>
+
+
+```
+https://gist.github.com/Loki-Xer/89e171b5abfaefe7ed16cadfe3fc6902
+```
+ᴩᴀᴛᴛᴇʀɴ : ᴩᴠᴛ <br>
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : ɪɴʀʟ <br>
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : ᴍᴀᴋᴇ ᴠɪᴅᴇᴏ ᴄɪʀᴄʟᴇ
 <br>
 <br>
 <br>
