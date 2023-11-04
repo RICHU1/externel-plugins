@@ -1,7 +1,7 @@
 <meta name="google-site-verification" content="aqS7zeVrgUzhKDo7GZO3ALO0r4fBfPLmT1VOOrCMXdY" />
 
 # DARKLEE OFC PLUGINS
-![alt text](https://th.bing.com/th/id/R.80452ebd2b925757e2b9323f7eb64837?rik=5gtEv1RdwF0eWQ&riu=http%3a%2f%2fwww.pixelstalk.net%2fwp-content%2fuploads%2f2016%2f06%2fMagnificent-Blue-Eyes-Anime-Girl-Wallpaper.jpg&ehk=FHx%2bLP%2bpDdv%2bQJgjcoBmBwHBIbgvzjtRk1ZJJSW%2f7hc%3d&risl=&pid=ImgRaw&r=0)
+![alt text](https://th.bing.com/th/id/R.80452ebd2b925757e2b9323f7eb64837?rik=5gtEv1RdwF0eWQ&riu=http%3a%2f%2fwww.pixelstalk.net%2fwp-content%2fuploads%2f2016%2f06%2fMagnificent-Blue-Eyes-Anime-boy-Wallpaper.jpg&ehk=FHx%2bLP%2bpDdv%2bQJgjcoBmBwHBIbgvzjtRk1ZJJSW%2f7hc%3d&risl=&pid=ImgRaw&r=0)
 <br>
 <br>
 <h6> THIS RIPO FOR DARKLEE PLIGINS ONLY YOU CAN USE DARKLEE BOT TO USE OUR PLUGINS INRL BOT SUPPORT ALMOST EVERY THINK SO JUST TRY INRL BOT AND JOIN OWER GROUP ➢</p>
