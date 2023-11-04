@@ -12,29 +12,8 @@
  <br>
  <h4 align="center">  ⚛ SUPPORTED PLUGINS ⚛</h1>
  
-`vv`
-`mention`
-`intro`
-`aitts`
-`fd`
-`ujids`
-`getjids`
-`hy`
-`exif`
-`demon slayer`
-`teddy`
-`moon`
-`status senter`
-`ᴡᴀɪꜰᴜ`
-`owner`
-`xnxx download`
-`xnxx searcher`
-`save`
-`caption`
-`mee`
-`anti_view_once`
-`hack`
-`ptv`
+`support plugins ellam umbi poyi 😅`
+
 
 
 
