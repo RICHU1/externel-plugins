@@ -330,3 +330,27 @@ sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : ɪɴʀʟ <br>
 <br>
 <br>
 <br>
+<h4 align="center"> ❇ auto_forward </h1>
+
+
+```
+https://gist.github.com/Loki-Xer/ac07f8b92228d42d0e5fd0bbb89f16f5
+```
+ᴩᴀᴛᴛᴇʀɴ : ᴀᴜᴛᴏ_ꜰᴏʀᴡᴀʀᴅ <br>
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : ɪɴʀʟ <br>
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : ᴀᴜᴛᴏ ꜰᴏʀᴡᴀʀᴅ ᴍꜱɢ ᴡɪᴛʜ ʟɪɴᴋ ᴩʀᴇᴠɪᴇᴡ
+<br>
+<br>
+<br>
+<h4 align="center"> ❇ auto_forward </h1>
+
+
+```
+https://gist.github.com/Loki-Xer/7926ee6ac0f5259bba2852450fb8e061
+```
+ᴩᴀᴛᴛᴇʀɴ : ᴀᴜᴛᴏ ꜰᴏʀᴡᴀʀᴅ <br>
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : ɪɴʀʟ <br>
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : ᴀᴜᴛᴏ ꜰᴏʀᴡᴀʀᴅ ᴍꜱɢ 
+<br>
+<br>
+<br>
